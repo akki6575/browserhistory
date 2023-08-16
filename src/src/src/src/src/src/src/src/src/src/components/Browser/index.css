@@ -1,0 +1,11 @@
+.header {
+  background-color: #3367d6;
+  height: 10vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.history {
+  height: 30px;
+}
